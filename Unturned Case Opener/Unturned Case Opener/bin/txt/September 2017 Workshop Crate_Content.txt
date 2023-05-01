@@ -1,0 +1,16 @@
+Blue_Killcount Dragonfang
+Blue_Mechanic Augewehr
+Blue_Bucket Wheel Excavator Chainsaw
+Blue_Native Devil's Bane
+Blue_Cutter Scalar
+Blue_Captured Maschinengewehr
+Blue_Order Luger
+Blue_Overkill Empire
+Blue_Standard Issue Hawkhound
+Blue_Enhanced Butcher Knife
+Purp_Hotrod Teklowvka
+Purp_Warfare Determinator
+Purp_Jacky Ekho
+Pink_Agile Matamorez
+Pink_Hammerstrike Commando Zubeknakov
+Myth_M

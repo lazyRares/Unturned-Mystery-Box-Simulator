@@ -1,0 +1,21 @@
+Blue_Ornamental Augewehr
+Blue_Ornamental Matamorez
+Blue_Candycane Compound Bow
+Blue_Candycane Rocket Launcher
+Blue_Ornamental Dragonfang
+Blue_Ornamental Chainsaw
+Blue_Candycane Shadowstalker
+Blue_Candycane Baseball Bat
+Blue_Snowman Bottom
+Blue_Snowman Top
+Blue_Elf Top
+Blue_Festive Bottom
+Blue_Festive Top
+Blue_Holiday Sweater
+Purp_Holiday Scarf
+Purp_Reindeer Nose
+Purp_Carrot Nose
+Pink_Snowman Hat
+Pink_Elf Hat
+Pink_Festive Hat
+Myth_C

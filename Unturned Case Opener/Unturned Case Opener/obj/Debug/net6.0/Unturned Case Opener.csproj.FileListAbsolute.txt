@@ -1,0 +1,15 @@
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\bin\Debug\net6.0\Unturned Case Opener.exe
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\bin\Debug\net6.0\Unturned Case Opener.deps.json
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\bin\Debug\net6.0\Unturned Case Opener.runtimeconfig.json
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\bin\Debug\net6.0\Unturned Case Opener.dll
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\bin\Debug\net6.0\Unturned Case Opener.pdb
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.csproj.AssemblyReference.cache
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.AssemblyInfo.cs
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.dll
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\refint\Unturned Case Opener.dll
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.pdb
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\Unturned Case Opener.genruntimeconfig.cache
+C:\Users\rares\source\repos\Unturned Case Opener\Unturned Case Opener\obj\Debug\net6.0\ref\Unturned Case Opener.dll

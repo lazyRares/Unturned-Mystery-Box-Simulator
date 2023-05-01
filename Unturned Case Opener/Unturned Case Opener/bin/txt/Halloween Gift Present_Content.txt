@@ -1,0 +1,23 @@
+Blue_Cobweb Bluntforce
+Blue_Cobweb Calling Card
+Blue_Cobweb Military Knife
+Blue_Cobweb Machete
+Blue_Skeleton Bottom
+Blue_Skeleton Top
+Blue_Mummy Bottom
+Blue_Mummy Top
+Blue_Halloween Bottom
+Blue_Halloween Top
+Blue_Mad Scientist Top
+Blue_Vampire Top
+Purp_Cobweb Katana
+Purp_Cobweb Compound Bow
+Purp_Cobweb Bandana
+Purp_Halloween Cape
+Purp_Vampire Cape
+Purp_Vampire Cowl
+Pink_Bolt
+Pink_Mad Scientist Goggles
+Pink_Mummy Hat
+Pink_Jack-o-Lantern
+Myth_H
